@@ -1,5 +1,5 @@
 ## Hello! 👋
-My name is Evan Owens, and I am a second year Computer Engineering Student at the University of British Columbia, in Vancouver, BC. I am passionate about the hardware/software intersection, and hope to become a firmware/embedded software engineer. Here you can find some of my recent projects and work!
+My name is Evan Owens, and I am a second year Computer Engineering Student at the University of British Columbia. I am passionate about the hardware/software intersection, and hope to become a firmware/embedded software engineer. Here you can find some of my recent projects and work!
 
 ## Recent Work
 ### [EvanRTOS](github.com/EvanO12/EvanRTOS)
