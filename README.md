@@ -2,13 +2,13 @@
 My name is Evan Owens, and I am a second year Computer Engineering Student at the University of British Columbia. I am passionate about the hardware/software intersection, and hope to become a firmware/embedded software engineer. Here you can find some of my recent projects and work!
 
 ## Recent Work
-### [EvanRTOS](github.com/EvanO12/EvanRTOS)
+### [EvanRTOS](https://github.com/EvanO12/EvanRTOS)
 EvanRTOS is a custom Real Time Operating System built for ARM Cortex-M microcontrollers. It features a pre-emptive, Priority-Based Scheduler, Counting Semaphores, and Message Queues. It also supports task timeouts, and FPU context perservation during context switches.
 
 ### [UBC Solar](https://github.com/UBC-Solar/firmware_v3)
 I am an active member of the Embedded Software subteam of UBC Solar, an engineering design team building and racing solar powered cars. Currently, I am working on our Telemetry System, predominately on the firmware side, to ensure robust data collection from our car, Brightside.
 
-### [Bootloader Prototype](github.com/EvanO12/Bootloader-Proto)
+### [Bootloader Prototype](https://github.com/EvanO12/Bootloader-Proto)
 A custom bootloader prototype built on the STM32 F411RE microcontroller. It allows for the external flashing of the Microcontroller with new binaries over UART, from a host Application written in Python. This project was designed in order to gain the skills and expertise to integrate a full, proper bootloader at UBC Solar. In the near future, we plan to use this as a basis of a CAN Bus and perhaps even OTA bootloader for all the electronic control units on our car.
 
 ### ProCrastination Android App (link coming soon)
