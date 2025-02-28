@@ -15,7 +15,7 @@ A custom bootloader prototype built on the STM32 F411RE microcontroller. It allo
 ProCrastination is an Android Application with the goal of reducing procrastination amongst students. It does this by providing the users with an mechanism to record their study sessions, and compete against their friends. Students can join custom groups, and see their study performance against their peers on the leaderboard. Studying for longer is better, but if the user tries to leave the app at any time, a strike is added to their study session. This project was made in collaboration with other students in the CPEN 221 Software Construction Class at UBC.
 
 ### Other
-I've also worked on Autonomous Class Algorithms for an Arduino Powered Robotic Claw, built a Turing Complete RISC Machine in SystemVerilog, and worked on a Java based Image Processing program, all in my coursework at UBC.
+I've also worked on Autonomous Claw Algorithms for an Arduino Powered Robotic Claw, built a Turing Complete RISC Machine in SystemVerilog, and worked on a Java based Image Processing program, all in my coursework at UBC.
 
 ### Contact
 If you have any questions, please do not heisitate to contact me. You can email me at [evancdowens@gmail.com](mailto:evancdowens@gmail.com) or connect with me on LinkedIn [here](https://www.linkedin.com/in/evan-owens-62594128b/)
